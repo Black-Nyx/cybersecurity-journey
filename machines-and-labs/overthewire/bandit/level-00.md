@@ -79,6 +79,45 @@ Una vez ingresada la contraseña correctamente, se establece la conexión con la
 
 
 ---
+## 📄 Contraseña del siguiente nivel
+
+Una vez dentro de la máquina, el siguiente objetivo es encontrar la contraseña necesaria para acceder a `bandit1`.
+
+> 📍 **Ubicación:** la contraseña se encuentra dentro del archivo `readme`.
+
+---
+
+### 🔎 Ver el contenido del archivo
+
+Para leer el archivo utilicé el comando `cat`:
+
+```bash
+cat readme
+```
+
+| Comando  | Función                                           |
+| :------- | :------------------------------------------------ |
+| `cat`    | Muestra el contenido de un archivo en la terminal |
+| `readme` | Archivo que quiero consultar                      |
+
+
+Al ejecutar `cat readme`, la terminal mostró la contraseña necesaria para acceder al siguiente nivel.
+
+> 🔒 **Contraseña omitida:** no muestro las credenciales obtenidas durante los niveles.
+
+---
+
+### 💻 Resultado
+
+```text
+bandit0@bandit:~$ cat readme
+[CONTRASEÑA OCULTA]
+```
+
+<img width="633" height="50" alt="image" src="https://github.com/user-attachments/assets/b67cc96b-44c1-4efb-88dd-42ef83f538de" />
+
+
+---
 
 ## 📌 Lo que aprendí
 
@@ -90,5 +129,6 @@ Una vez ingresada la contraseña correctamente, se establece la conexión con la
 * Que SSH utiliza el puerto `22` por defecto.
 * Cómo especificar un puerto diferente mediante `-p`.
 * Cómo autenticarme con un usuario y una contraseña.
+* Utilizar cat para mostrar el contenido de un archivo directamente en la terminal.
 
 ✅ **Level 0 completado**
