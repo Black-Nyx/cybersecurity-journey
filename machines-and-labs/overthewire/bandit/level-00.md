@@ -25,23 +25,35 @@ La estructura básica para realizar una conexión es:
 
 ```bash
 ssh usuario@servidor
+```
 
-En este caso, el usuario proporcionado por OverTheWire es bandit0 y el servidor es bandit.labs.overthewire.org:
+En este caso, el usuario proporcionado por OverTheWire es `bandit0` y el servidor es `bandit.labs.overthewire.org`:
+
+```bash
 ssh bandit0@bandit.labs.overthewire.org
+```
 
-🔌 Puerto
+---
 
-SSH utiliza normalmente el puerto 22.
+## 🔌 Puerto
 
-Bandit utiliza el puerto 2220, por lo que tengo que indicarlo manualmente utilizando la opción -p.
+SSH utiliza normalmente el **puerto 22**.
+
+Bandit utiliza el puerto `2220`, por lo que tengo que indicarlo manualmente utilizando la opción `-p`.
 
 La estructura del comando es:
 
+```bash
 ssh -p puerto usuario@servidor
+```
 
 Para este nivel:
 
+```bash
 ssh -p 2220 bandit0@bandit.labs.overthewire.org
+```
+
+---
 
 ## 🔑 Autenticación
 
