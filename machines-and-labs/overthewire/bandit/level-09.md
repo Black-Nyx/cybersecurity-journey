@@ -53,10 +53,7 @@ Por eso pasé el resultado de `strings` a `grep`.
 ┌─────────────────────────────────────────────┐
 │ strings  → busca texto legible en archivos  │
 │                                             │
-
-│                                             │
-│ grep "=" → filtra las líneas que contienen  │
-│            el carácter "="                  │
+               
 └─────────────────────────────────────────────┘
 ```
 
