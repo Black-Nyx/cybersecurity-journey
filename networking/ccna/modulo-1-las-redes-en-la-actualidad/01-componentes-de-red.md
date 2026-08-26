@@ -32,7 +32,6 @@ Cliente  ◄──── respuesta ─────  Servidor
 Cliente: solicita y utiliza un servicio.
 Servidor: proporciona servicios o información a otros dispositivos de la red.
 
-Los servidores utilizan diferentes tipos de software de servidor dependiendo del servicio que proporcionen.
 ---
 
 ## 🔄 Redes entre pares (Peer-to-Peer)
