@@ -52,10 +52,6 @@ Cliente / Servidor        Cliente / Servidor
 | Puede tener un menor costo                | No es adecuada para redes muy grandes            |
 | Útil para compartir archivos e impresoras | Puede afectar el rendimiento de los dispositivos |
 
-¿Por qué una red P2P no es muy escalable?
-
-Con pocos dispositivos es fácil de utilizar y administrar. Sin embargo, cuando aumenta mucho la cantidad de equipos, se vuelve más difícil controlar usuarios, permisos, recursos y seguridad, ya que no existe un servidor central encargado de administrarlos.
-
 ---
 
 ## 💻 Dispositivos finales
