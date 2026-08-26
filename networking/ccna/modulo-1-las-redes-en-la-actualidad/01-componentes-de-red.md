@@ -38,10 +38,7 @@ Servidor: proporciona servicios o información a otros dispositivos de la red.
 
 Una red **Peer-to-Peer (P2P)** es una forma de comunicación en la que **dos o más computadoras se conectan entre sí sin depender de un servidor central dedicado**.
 
-En este tipo de red, cada dispositivo puede funcionar como **cliente y servidor al mismo tiempo**:
-
-- Como **cliente**, puede solicitar recursos.
-- Como **servidor**, puede proporcionar recursos a otros dispositivos.
+En este tipo de red, cada dispositivo puede funcionar como **cliente y servidor al mismo tiempo**.
 
 ```text
 PC A  ◄────────────────►  PC B
