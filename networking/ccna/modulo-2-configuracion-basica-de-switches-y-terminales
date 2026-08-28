@@ -1,0 +1,21 @@
+# ⚙️ Módulo 2 — Configuración básica de switches y terminales
+
+En este módulo documento la configuración inicial de dispositivos Cisco y los conceptos necesarios para administrar **switches y dispositivos finales** dentro de una red.
+
+---
+
+## 📚 Contenido del módulo
+
+En esta sección voy a documentar:
+
+- Acceso y navegación por **Cisco IOS**
+- Modos de configuración
+- Configuración básica de un switch
+- Nombres de host y contraseñas
+- Configuración de interfaces
+- Direccionamiento IP
+- Verificación de conectividad
+- Comandos básicos de Cisco IOS
+- Prácticas realizadas en **Cisco Packet Tracer**
+
+---
