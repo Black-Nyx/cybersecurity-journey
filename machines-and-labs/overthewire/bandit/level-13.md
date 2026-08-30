@@ -67,22 +67,6 @@ Por ejemplo, para este nivel:
 ```bash
 ssh -i sshkey.private -p 2220 bandit14@bandit.labs.overthewire.org
 ```
-
----
-
-## ⚠️ Problema: conexión desde localhost
-
-Primero intenté utilizar la clave directamente estando conectado como `bandit13`.
-
-El servidor respondió indicando que las conexiones SSH desde `localhost` estaban bloqueadas:
-
-```text
-Connecting from localhost is blocked to conserve resources.
-Please log out and log in again.
-```
-
-Por lo tanto, necesitaba utilizar la clave desde mi propia máquina Kali.
-
 ---
 
 ## 📤 Copiando la clave a Kali con `scp`
