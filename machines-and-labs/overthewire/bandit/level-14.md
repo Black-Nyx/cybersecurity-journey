@@ -4,15 +4,6 @@
 
 ---
 
-## 🧩 Entendiendo la consigna
-
-La consigna indicaba que debía enviar la contraseña de `bandit14` a:
-
-```text
-localhost:30000
-```
----
-
 ## 🏠 ¿Qué significa `localhost`?
 
 `localhost` es un nombre utilizado para referirse a **la propia máquina desde la que estamos ejecutando el comando**.
