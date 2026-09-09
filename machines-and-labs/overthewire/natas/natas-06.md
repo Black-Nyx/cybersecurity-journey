@@ -40,7 +40,3 @@ Lo introduje en el campo correspondiente y envié el formulario.
 Al enviar el secreto correcto, la página mostró la información necesaria para completar el nivel.
 
 ---
-Información sensible expuesta
-```
-
-La lección principal que me llevo es que **ocultar información sensible en otro archivo no es suficiente si ese archivo sigue siendo accesible desde la web**.
